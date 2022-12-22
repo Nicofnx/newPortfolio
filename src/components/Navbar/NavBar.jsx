@@ -50,7 +50,7 @@ const NavBar = () =>{
           </a>
         </Logo>
         <Logo>
-          <a href="#formation">
+          <a href="#contact">
             <FontAwesomeIcon className='fa-1x' icon={faUser} />
             <SpanMenu isOpen={openMenu} >Contact</SpanMenu>
           </a>

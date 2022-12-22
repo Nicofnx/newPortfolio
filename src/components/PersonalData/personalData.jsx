@@ -2,6 +2,7 @@ import MyServices from '../MyServices/MyServices'
 import {Container, ContainerData, Tittle, InfoMe, MyDescription } from './PersonalData.styles'
 import MyPortfolio from '../MyPortfolio/MyPortFolio'
 import MyFormation from '../MyFormation/MyFormatio'
+import MyForm from '../Contact/MyForm'
 
 const PersonalData = () => {
   return (
@@ -15,6 +16,7 @@ const PersonalData = () => {
        <MyServices />
        <MyPortfolio />
        <MyFormation />
+       <MyForm />
     </ContainerData>
 
     </Container>

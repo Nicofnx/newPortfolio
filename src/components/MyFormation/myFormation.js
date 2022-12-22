@@ -28,7 +28,8 @@ export const ConainerCertificadoCarrera = styled.div`
 export const ContainerCerts = styled.div`
   width: 100%;
   display: flex;
-  flex-wrap: nowrap
+  flex-wrap: nowrap;
+  margin-bottom: 40px;
 `
 
 export const Certificado = styled.div`
