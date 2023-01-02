@@ -52,6 +52,10 @@ export const Container = styled.div`
         
       }
 
+      p{
+        color: #FF5733
+      }
+
       textarea{
         width: 100%;
         padding: 7px;

@@ -65,6 +65,7 @@ export const ContainerIcons = styled.div`
   justify-content: center;
   align-items: left;
   color: #fff;
+  overflow: hidden;
 `
 
 export const ContainerCV = styled.div`

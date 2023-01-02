@@ -68,3 +68,22 @@ export const MyDescription = styled.p`
     line-height: 27px;
   }
 `
+
+export const ContainerSkills = styled.div`
+  display:flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 20px 0 0 0;
+
+  ul{
+    li{
+      list-style-type:circle;
+      list-style-position: outside;
+      color: #52ba85;
+      
+      span{
+        color: #b9b9b9;
+      }
+    }
+  }
+`
