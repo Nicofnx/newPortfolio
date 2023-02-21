@@ -19,12 +19,12 @@ const MyServices = () => {
         />
         <Card
           logo = {'key'}
-          tittle = {'Data Base'}
+          tittle = {'Database'}
           description = {'Instalacion y configuacion de certificado SSL en tu sitio. Redireccion y configuraciones de tu sitio web o hosting.'}
         />
         <Card
           logo = {'eye'}
-          tittle = {'Responsibe'}
+          tittle = {'Responsive'}
           description = {'Diseno adaptable a distintos dispositivos para que tu web sea visible de manera optima en todo tipo de resolucion.'}
         />
       </ContainerServices>
