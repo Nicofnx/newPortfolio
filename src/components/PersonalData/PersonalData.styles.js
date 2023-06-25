@@ -81,8 +81,11 @@ export const ContainerSkills = styled.div`
       list-style-position: outside;
       color: #52ba85;
       
-      span{
-        color: #b9b9b9;
+      h4{
+        color: #fff;
+        font-size: 18px;
+        margin: 7px 0;
+
       }
     }
   }

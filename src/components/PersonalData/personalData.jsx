@@ -15,15 +15,16 @@ const PersonalData = () => {
           <p>Aquí hay algunas tecnologías con las que he estado trabajando recientemente:</p> 
           <ContainerSkills>
             <ul>
-              <li><span>HTML5</span></li>
-              <li><span>CSS3</span></li>
-              <li><span>JS</span></li>
-              <li><span>React</span></li>
+              <li><h4>HTML5</h4></li>
+              <li><h4>CSS3</h4></li>
+              <li><h4>JS</h4></li>
+              <li><h4>React</h4></li>
             </ul>
             <ul>
-              <li><span>Boostrap</span></li>
-              <li><span>SASS</span></li>
-              <li><span>Firebase</span></li>
+              <li><h4>Next Js</h4></li>
+              <li><h4>Boostrap</h4></li>
+              <li><h4>SASS</h4></li>
+              <li><h4>Firebase</h4></li>
             </ul>
           </ContainerSkills>
        </MyDescription>

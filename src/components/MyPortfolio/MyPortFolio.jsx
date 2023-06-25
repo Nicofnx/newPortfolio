@@ -5,6 +5,7 @@ import imgProyect3 from '../../assets/Proyectos/proyectoGAC.png'
 import imgProyect4 from '../../assets/Proyectos/project.jpg'
 import imgProyect5 from '../../assets/Proyectos/ReactBasicos.png'
 import imgProyect6 from '../../assets/Proyectos/ProyectoSpot2.png'
+import imgProyect7 from '../../assets/Proyectos/billsapp.png'
 import CardPortfolio from '../CardPortfolio/CardPortfolio'
 
 const MyPortfolio = () => {
@@ -56,6 +57,14 @@ const MyPortfolio = () => {
         img={imgProyect6}
         demo={"https://spot2challenge.netlify.app/"}
         code={"https://github.com/Nicofnx/Spot2Challenge.git"}
+
+      />
+      <CardPortfolio
+        tittle={'Lista de facturas'}
+        description={'Aplicacion que simmula la generacion de facturas, en la cual mediante un modal se cargan los datos basicos de una factura y se eligen los productos que debe contener la factura. Los productos son traidos de un endpoint, utilice un context para el estado gobal y store de las facturas. Se permite agregar, modificar y eliminar las facturas.'}
+        img={imgProyect7}
+        demo={"https://generatebillsapp.netlify.app/"}
+        code={"https://github.com/Nicofnx/Bills-app"}
 
       />
 
