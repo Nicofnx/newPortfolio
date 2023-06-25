@@ -53,7 +53,7 @@ const MyPortfolio = () => {
       />
       <CardPortfolio
         tittle={'Challenge tecnico'}
-        description={'En este desafio debia utilizar un filtrado para mostrar distintos spots dependiendo de parametros como el tamaño y ubicacion. Ademas utilizar un mapa donde se visualizaran los markets, para ello utilice Context. Ademas hice uso de PropTypes, ReactRouter, styled Component y axios para realizar la request al endpoint.(Ya no tengo acceso a la api de los spot por ello no aparecen en el mapa.)'}
+        description={'En este desafío debía utilizar un filtrado para mostrar distintos spots dependiendo de parámetros como el tamaño y ubicación. Ademas utilizar un mapa donde se visualizaran los markets, para ello utilice Context. Ademas hice uso de PropTypes, ReactRouter, styled Component y axios para realizar la request al endpoint.(Ya no tengo acceso a la api de los spot por ello no aparecen en el mapa).'}
         img={imgProyect6}
         demo={"https://spot2challenge.netlify.app/"}
         code={"https://github.com/Nicofnx/Spot2Challenge.git"}
@@ -61,7 +61,7 @@ const MyPortfolio = () => {
       />
       <CardPortfolio
         tittle={'Lista de facturas'}
-        description={'Aplicacion que simmula la generacion de facturas, en la cual mediante un modal se cargan los datos basicos de una factura y se eligen los productos que debe contener la factura. Los productos son traidos de un endpoint, utilice un context para el estado gobal y store de las facturas. Se permite agregar, modificar y eliminar las facturas.'}
+        description={'Aplicación que simula la generación de facturas, en la cual mediante un modal se cargan los datos básicos de una factura y se eligen los productos que debe contener la factura. Los productos son traídos de un endpoint, utilice un context para el estado global y store de las facturas. Se permite agregar, modificar y eliminar las facturas.'}
         img={imgProyect7}
         demo={"https://generatebillsapp.netlify.app/"}
         code={"https://github.com/Nicofnx/Bills-app"}
